@@ -1,2 +1,2 @@
 # denoise-metrics
-A ways of testing denoising for types different of synchrotron data.
+A ways of testing denoising on different types of synchrotron data.
